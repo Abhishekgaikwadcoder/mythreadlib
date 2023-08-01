@@ -1,4 +1,4 @@
-# MyThreadingLibrary
+# Mythreadlib
 
 ## Introduction
 This repo is an implementation of kernel-level (one-one) threads and user-level (many-one) threads
